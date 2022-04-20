@@ -1,4 +1,0 @@
-{"id":"5403af00-f060-42c3-ba3f-da075178caba","name":"test","timestamp":"2022-03-19T14:46:43.249Z"}
-{"id":"cf8b06a8-cfa1-4f47-9b67-2a95ff68ccc9","name":"testbed","timestamp":"2022-04-09T06:17:46.139Z"}
-{"id":"bb688938-12f2-4bc4-b5df-982f42e63073","name":"testbed","timestamp":"2022-04-09T06:18:54.267Z"}
-{"id":"0ada2426-d732-40d0-aa86-4744f0b42043","name":"testbed","timestamp":"2022-04-13T11:15:16.661Z"}
