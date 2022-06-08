@@ -1,0 +1,10 @@
+prometheus:
+  prometheusSpec:
+    additionalScrapeConfigs:
+      - job_name: app
+        scrape_interval: 15s
+        kubernetes_sd_configs:
+        - role: service
+          namespaces:
+            names:
+              - default
