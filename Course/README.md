@@ -15,6 +15,6 @@
 | 2022/05/11 | 企業資訊系統DevOps最佳實踐–Monitor and Troubleshooting                    | 詹文志(林家民) |
 | 2022/05/18 | 機器學習MLOps的 DevOps 流程                                               | 蘇冠華 |
 | 2022/05/25 | 機器學習MLOps的 DevOps 流程                                               | 蘇冠華 |	
-| 2022/06/01 | Final Project Presentation -1                                             | 趙瑞祥/羅子威 |
-| 2022/06/08 | Final Project Presentation -2                                             | 趙瑞祥/羅子威 |	
-| 2022/06/15 | Final Project Presentation -3                                             | 蘇冠華 |
+| 2022/06/01 | (Option) Final Project 準備 + 助教諮詢                                   |  |
+| 2022/06/08 | Final Project Presentation - 1                                             |  |	
+| 2022/06/15 | Final Project Presentation - 2                                             |  |
